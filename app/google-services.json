@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680807627727",
+    "firebase_url": "https://control-car-b03b0-default-rtdb.firebaseio.com",
+    "project_id": "control-car-b03b0",
+    "storage_bucket": "control-car-b03b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680807627727:android:fd78953564da2f9d4ef0ba",
+        "android_client_info": {
+          "package_name": "com.test.controlcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680807627727-cjf9lt8qn79a7ju8k1kf9qtbmr4se70l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZ9F-8D0w-4sB1SVNFII6EP2GjqNjMQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680807627727-cjf9lt8qn79a7ju8k1kf9qtbmr4se70l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
